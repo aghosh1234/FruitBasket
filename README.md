@@ -15,11 +15,13 @@ FruitBasket is a console application built on Java 8 for allowing users to provi
  
 ## Versions
  * 1.0.0 - Initial Commit
+ * 1.0.1 - Formatting Readme.md
+ * 1.0.2 - Added jar file name in Readme.md
 
 ## Setup
 Here are few things to configure to start with FruitBasket.
  * Copy the CSV file in any of your local folder(A CSV file has been uploaded to Github named fruitBasket.csv).
- * Download the executable Jar file from GitHub (An executable Jar file has been uploaded along with Source code).
+ * Download the executable Jar file from GitHub (An executable Jar file named FruitBasket.jar has been uploaded along with Source code).
  * In terminal go to the path where you downloaded the jar.
  * Execute the "java -jar <jar name>"(FruitBasket.jar).(Assuming java is installed in your classpath and for reference Main class is com.mycode.fruit.basket.FruitBasket.java and kept in manifest.txt)
  * It will ask to enter the path where your CSV file located and then Enter.
