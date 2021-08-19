@@ -17,6 +17,7 @@ FruitBasket is a console application built on Java 8 for allowing users to provi
  * 1.0.0 - Initial Commit
  * 1.0.1 - Formatting Readme.md
  * 1.0.2 - Added jar file name in Readme.md
+ * 1.0.3 Proper Indent  FruitDto.java
 
 ## Setup
 Here are few things to configure to start with FruitBasket.
