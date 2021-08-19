@@ -68,7 +68,7 @@ The various characteristics (count, color, shape, etc.) of each fruit by type:
 
 ## Rainy days scenarios
 
-#1.File doesn't exist in specified path
+1.File doesn't exist in specified path
 
 $ java -jar FruitBasket.jar
 Please enter your file path and then Enter: 
@@ -78,7 +78,7 @@ You entered the path: /Users/aghosh005c/Desktop/filedoesnotexist.csv
 
 No such file in the specified path: /Users/aghosh005c/Desktop/filedoesnotexist.csv
 
-#2.The file doesn't have ".csv" extension
+2.The file doesn't have ".csv" extension
 
 $java -jar FruitBasket.jar
 Please enter your file path and then Enter: 
@@ -88,7 +88,7 @@ You entered the path: /Users/aghosh005c/Desktop/fruitBasket.png
 
 The file is not in CSV extension(.csv)
 
-#3.Not in correct format. Remove one of the "," from any line of the csv file
+3.Not in correct format. Remove one of the "," from any line of the csv file
 
 $ java -jar FruitBasket.jar
 Please enter your file path and then Enter: 
@@ -98,7 +98,7 @@ You entered the path: /Users/aghosh005c/Desktop/fruitBasket.csv
 
 The file is not correct formatted for the line 6
 
-#4.Not in correct format. Update one of the age-in-days column as string instead of numeric
+4.Not in correct format. Update one of the age-in-days column as string instead of numeric
 
 $ java -jar FruitBasket.jar
 Please enter your file path and then Enter: 
